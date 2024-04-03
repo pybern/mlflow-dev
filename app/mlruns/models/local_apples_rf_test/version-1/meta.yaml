@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1712130704612
+current_stage: None
+description: ''
+last_updated_timestamp: 1712130704612
+name: local_apples_rf_test
+run_id: 4e9e32dbea574c058a4a01a280dc954d
+run_link: ''
+source: mlflow-artifacts:/944828361356668208/4e9e32dbea574c058a4a01a280dc954d/artifacts/rf_apples
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/944828361356668208/4e9e32dbea574c058a4a01a280dc954d/artifacts/rf_apples
+user_id: null
+version: 1
